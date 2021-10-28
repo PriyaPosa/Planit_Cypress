@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+//<reference types="cypress" />
 
 // Welcome to Cypress!
 //
@@ -84,7 +84,7 @@ describe('Open URL', () => {
 
     it('Validate and find the cost of the total list', () => {
 
-        //Buy 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear
+        //Buy 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear
         //2. Go to the cart page
         //3. Verify the subtotal for each product is correct
 
